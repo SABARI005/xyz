@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cricket/static/css/main.5b262960.css",
-    "main.js": "/cricket/static/js/main.e47dc193.js",
-    "static/media/T20.mp4": "/cricket/static/media/T20.c1d315ca3e210463c3ab.mp4",
-    "static/media/Homepage.mp4": "/cricket/static/media/Homepage.418692852e11c0927f82.mp4",
-    "static/media/Test.mp4": "/cricket/static/media/Test.8527fbe9662ba15f956f.mp4",
-    "static/media/Register.mp4": "/cricket/static/media/Register.8bed3072780a9d7263aa.mp4",
-    "static/media/ODI.mp4": "/cricket/static/media/ODI.d816dc21172f58221598.mp4",
-    "static/media/Formats.mp4": "/cricket/static/media/Formats.1612afd2e06a700a2a21.mp4",
-    "index.html": "/cricket/index.html",
-    "main.5b262960.css.map": "/cricket/static/css/main.5b262960.css.map",
-    "main.e47dc193.js.map": "/cricket/static/js/main.e47dc193.js.map"
+    "main.css": "/xyz/static/css/main.5b262960.css",
+    "main.js": "/xyz/static/js/main.9fa89a09.js",
+    "static/media/T20.mp4": "/xyz/static/media/T20.c1d315ca3e210463c3ab.mp4",
+    "static/media/Homepage.mp4": "/xyz/static/media/Homepage.418692852e11c0927f82.mp4",
+    "static/media/Test.mp4": "/xyz/static/media/Test.8527fbe9662ba15f956f.mp4",
+    "static/media/Register.mp4": "/xyz/static/media/Register.8bed3072780a9d7263aa.mp4",
+    "static/media/ODI.mp4": "/xyz/static/media/ODI.d816dc21172f58221598.mp4",
+    "static/media/Formats.mp4": "/xyz/static/media/Formats.1612afd2e06a700a2a21.mp4",
+    "index.html": "/xyz/index.html",
+    "main.5b262960.css.map": "/xyz/static/css/main.5b262960.css.map",
+    "main.9fa89a09.js.map": "/xyz/static/js/main.9fa89a09.js.map"
   },
   "entrypoints": [
     "static/css/main.5b262960.css",
-    "static/js/main.e47dc193.js"
+    "static/js/main.9fa89a09.js"
   ]
 }
